@@ -1,1 +1,2 @@
-<?php header("Location: .couscous/generated/"); ?>
+<h1>Hamza Abdullah</h1>
+<h2>:)</h2>
